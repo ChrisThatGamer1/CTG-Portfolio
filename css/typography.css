@@ -5,6 +5,7 @@ body {
 .nav-title {
   font-weight: 700;
   font-size: 24px;
+  margin-left: -40px;
 }
 
 .button-text {
@@ -30,6 +31,11 @@ body {
 .body-text {
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
+}
+
+.body-indent {
+  text-indent: 50px;
 }
 
 .project-card-text {
